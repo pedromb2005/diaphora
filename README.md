@@ -96,4 +96,5 @@ Atualiza o cronômetro no LCD quando ele está em execução.
 - LiquidCrystal_I2C.h: Controle do LCD via I2C.
 - Servo.h: Controle dos servos motores.
 ## 🙋‍♂️ Criado por:
-- [Matheus Lustosa](https://github.com/MatheusLustosa)
+- [Matheus Lustosa](https://github.com/MatheusLustosa).
+- 
